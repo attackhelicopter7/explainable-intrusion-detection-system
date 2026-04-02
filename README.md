@@ -60,7 +60,7 @@ In practical cybersecurity settings, predictions alone are not sufficient. Analy
 
 ## Dataset
 
-Only a sample dataset is included due to size constraints. The full dataset was generated through sandboxed execution of binaries and network traffic capture.
+Only a sample dataset is included due to size constraints. The full dataset was generated through sandboxed execution of binaries and network traffic capture. Full dataset available if requested (120mb 380000 entries)
 
 ## Future Work
 
